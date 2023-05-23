@@ -1,4 +1,4 @@
-# teste_tg_gpu
+# teste_tf_gpu
 
 precisa colocar as imagens para teste
 
